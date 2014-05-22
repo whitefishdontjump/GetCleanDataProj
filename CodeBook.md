@@ -77,36 +77,36 @@ For reference, here are the 30 feature variables selected:
 </code></pre>
 
 <ul>
-<li><p>tBodyAcc-mean()-X</p></li>
-<li><p>tBodyAcc-mean()-Y</p></li>
-<li><p>tBodyAcc-mean()-Z</p></li>
-<li><p>tBodyAcc-std()-X</p></li>
-<li><p>tBodyAcc-std()-Y</p></li>
-<li><p>tBodyAcc-std()-Z</p></li>
-<li><p>tGravityAcc-mean()-X </p></li>
-<li><p>tGravityAcc-mean()-Y</p></li>
-<li><p>tGravityAcc-mean()-Z</p></li>
-<li><p>tGravityAcc-std()-X </p></li>
-<li><p>tGravityAcc-std()-Y</p></li>
-<li><p>tGravityAcc-std()-Z</p></li>
-<li><p>tBodyAccJerk-mean()-X </p></li>
-<li><p>tBodyAccJerk-mean()-Y</p></li>
-<li><p>tBodyAccJerk-mean()-Z</p></li>
-<li><p>tBodyAccJerk-std()-X </p></li>
-<li><p>tBodyAccJerk-std()-Y</p></li>
-<li><p>tBodyAccJerk-std()-Z</p></li>
-<li><p>tBodyGyro-mean()-X </p></li>
-<li><p>tBodyGyro-mean()-Y</p></li>
-<li><p>tBodyGyro-mean()-Z</p></li>
-<li><p>tBodyGyro-std()-X </p></li>
-<li><p>tBodyGyro-std()-Y</p></li>
-<li><p>tBodyGyro-std()-Z</p></li>
-<li><p>tBodyGyroJerk-mean()-X </p></li>
-<li><p>tBodyGyroJerk-mean()-Y</p></li>
-<li><p>tBodyGyroJerk-mean()-Z</p></li>
-<li><p>tBodyGyroJerk-std()-X </p></li>
-<li><p>tBodyGyroJerk-std()-Y</p></li>
-<li><p>tBodyGyroJerk-std()-Z</p></li>
+<li>tBodyAcc-mean()-X</li>
+<li>tBodyAcc-mean()-Y</li>
+<li>tBodyAcc-mean()-Z</li>
+<li>tBodyAcc-std()-X</li>
+<li>tBodyAcc-std()-Y</li>
+<li>tBodyAcc-std()-Z</li>
+<li>tGravityAcc-mean()-X </li>
+<li>tGravityAcc-mean()-Y</li>
+<li>tGravityAcc-mean()-Z</li>
+<li>tGravityAcc-std()-X </li>
+<li>tGravityAcc-std()-Y</li>
+<li>tGravityAcc-std()-Z</li>
+<li>tBodyAccJerk-mean()-X </li>
+<li>tBodyAccJerk-mean()-Y</li>
+<li>tBodyAccJerk-mean()-Z</li>
+<li>tBodyAccJerk-std()-X </li>
+<li>tBodyAccJerk-std()-Y</li>
+<li>tBodyAccJerk-std()-Z</li>
+<li>tBodyGyro-mean()-X </li>
+<li>tBodyGyro-mean()-Y</li>
+<li>tBodyGyro-mean()-Z</li>
+<li>tBodyGyro-std()-X </li>
+<li>tBodyGyro-std()-Y</li>
+<li>tBodyGyro-std()-Z</li>
+<li>tBodyGyroJerk-mean()-X </li>
+<li>tBodyGyroJerk-mean()-Y</li>
+<li>tBodyGyroJerk-mean()-Z</li>
+<li>tBodyGyroJerk-std()-X </li>
+<li>tBodyGyroJerk-std()-Y</li>
+<li>tBodyGyroJerk-std()-Z</li>
 </ul>
 
 
