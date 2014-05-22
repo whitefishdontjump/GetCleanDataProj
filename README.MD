@@ -1,7 +1,7 @@
 README.MD Course Project - Getting and Cleaning Data
 ========================================================
 Prepared by John Raphael, May 2014
-
+(needs revision to formatted markdown, RStudio didn't do it)
 The entire execution of the project assignment, including data downloading and creation of
 datasets is contained in the file "run_analysis.R"
 
