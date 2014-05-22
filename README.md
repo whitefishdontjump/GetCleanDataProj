@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <!-- saved from url=(0014)about:internet -->
 <html>
@@ -6,6 +7,14 @@
 <meta http-equiv="x-ua-compatible" content="IE=9" >
 
 <title>README.MD Course Project - Getting and Cleaning Data</title>
+=======
+README.MD Course Project - Getting and Cleaning Data
+========================================================
+Prepared by John Raphael, May 2014
+(needs revision to formatted markdown, RStudio didn't do it)
+The entire execution of the project assignment, including data downloading and creation of
+datasets is contained in the file "run_analysis.R"
+>>>>>>> 40e473c82947a5ebe5eb24417e63ceab6fb33b83
 
 <style type="text/css">
 body, td {
