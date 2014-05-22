@@ -1,5 +1,5 @@
 
-<h1>CodeBook.MD - Code Book for Getting and Cleaning Data - Course Project</h1>
+<h3>CodeBook.MD - Code Book for Getting and Cleaning Data - Course Project</h3>
 
 <p>Prepared by John Raphael, May 2014</p>
 
