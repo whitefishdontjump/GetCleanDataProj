@@ -1,5 +1,5 @@
 
-<h1>README.MD Course Project - Getting and Cleaning Data</h1>
+<h2>README.MD Course Project - Getting and Cleaning Data</h2>
 
 <p>Prepared by John Raphael, May 2014</p>
 
