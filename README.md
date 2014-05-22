@@ -57,7 +57,7 @@ Here is the list of files in the order they are created in the script:</p>
 <p>The run_analysis.R file includes comments to assist in readers in following
 the operations and creation of the text files written.</p>
 
-<p>The specific manipulations of the raw data are summarized in the CodeBook.MD file.</p>
+<p>The specific manipulations of the raw data are summarized in the CodeBook.md file.</p>
 
 <p>Thanks for taking a look at my work.  Please feel free to leave comments in the commit on github.</p>
 
