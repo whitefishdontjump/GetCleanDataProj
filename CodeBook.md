@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0014)about:internet -->
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta http-equiv="x-ua-compatible" content="IE=9" >
-
 <title>CodeBook.MD - Code Book for Getting and Cleaning Data - Course Project</title>
 
 <style type="text/css">
